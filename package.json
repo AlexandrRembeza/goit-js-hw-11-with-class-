@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://BielkaKate.github.goit-js-hw-13-image-finder",
+  "homepage": "https://AlexandrRembeza.github.goit-js-hw-11-with-class-",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-with-class-/"
   },
   "repository": {
     "type": "git",
